@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=edwl
+Comment=Wayland compositor
+Exec=edwl
+Type=Application
