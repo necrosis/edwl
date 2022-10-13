@@ -1,5 +1,5 @@
 pkgname=edwl
-pkgver=0.9
+pkgver=0.9.1
 pkgrel=1
 pkgdesc='A simple dynamic window manager for wayland.'
 arch=('x86_64')
@@ -10,7 +10,7 @@ source=("edwl.tar.gz::https://gitlab.com/necrosis/edwl/-/archive/$pkgver/edwl-$p
 	"edwl.desktop")
 
 sha256sums=(
-'990cecdbca7680519aaeb631efe73c0ea2f183b54b764307e724941f4346ca43'
+'ee118850d1557c5cbd22f81aa2feeccae637aee0df076a40237ade19f4f89531'
 '5890c032ae202361f126b2a3853be4de3528fcd677a247a7d891cd12d030f587'
 )
 
