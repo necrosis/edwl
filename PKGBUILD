@@ -24,6 +24,6 @@ build() {
 package() {
   install -Dm655 "edwl-$pkgver/edwl" -t "$pkgdir/usr/bin/"
   install -Dm644 "edwl.desktop" -t "$pkgdir/usr/share/wayland-sessions/"
-  install -Dm644 "edwl-$pkgver/background.png" -t "$pkgdir/usr/local/share/edwl/background.png"
+  install -Dm644 "edwl-$pkgver/background.png" -t "$pkgdir/usr/local/share/edwl/"
   install -Dm644 "edwl-$pkgver/LICENSE" -t "$pkgdir/usr/share/licenses/$pkgname"
 }
