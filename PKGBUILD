@@ -10,7 +10,7 @@ source=("edwl.tar.gz::https://gitlab.com/necrosis/edwl/-/archive/$pkgver/edwl-$p
 	"edwl.desktop")
 
 sha256sums=(
-'d3c265b291f970da7908bc10bdd69d724d0d5a897f9a7c3b25d5503bf3b17d50'
+'4f887478d2dc5454a3ff6729b423ed2db5101022ebe8630d4007cbf01d1b660e'
 '5890c032ae202361f126b2a3853be4de3528fcd677a247a7d891cd12d030f587'
 )
 
